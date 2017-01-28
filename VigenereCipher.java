@@ -2,8 +2,6 @@
  * VigernereCipher
  * Based on NullCipher created for 2015-01 CSC115 Assignment 1.
  * @author: Alain-Joseph Po-Deziel
- * @UVicID: V00815622
- * @submissionDate: 28/01/2015
  */
 
 public class VigenereCipher implements Cipher {
